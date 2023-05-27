@@ -59,7 +59,8 @@ Additionally, should you wish to reduce the total supply of tokens by burning a 
 ## Authors
 
 Kundan kumar  
-[@kundan#9760](https://discord.com/kundan#9760)
+[@KundanKumarKPr1](https://twitter.com/KundanKumarKPr1)
+
 
 ## License
 
